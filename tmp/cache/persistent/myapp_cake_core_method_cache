@@ -1,2 +1,2 @@
-1336524882
-a:1:{s:4:"name";a:2:{i:1846650703;s:22:"`vanderso_assandosite`";i:-1733338608;s:11:"`palestras`";}}
+1336556189
+a:2:{s:4:"name";a:14:{i:1846650703;s:22:"`vanderso_assandosite`";i:1700727151;s:18:"`Palestrante`.`id`";i:-492728684;s:20:"`Palestrante`.`nome`";i:-1511153664;s:14:"`palestrantes`";i:1961918791;s:13:"`Palestrante`";i:-1733338608;s:11:"`palestras`";i:-1684970019;s:7:"`count`";i:1930101945;s:17:"`Palestra`.`nome`";i:1952391033;s:10:"`Palestra`";i:-381278647;s:6:"`nome`";i:1890832642;s:11:"`descricao`";i:747646008;s:17:"`palestrantes_id`";i:-864439424;s:8:"`inicio`";i:-1682264942;s:5:"`fim`";}s:6:"fields";a:2:{s:32:"cf43409ebe253b432de8131eb83f5ec3";a:2:{i:0;s:18:"`Palestrante`.`id`";i:1;s:20:"`Palestrante`.`nome`";}s:32:"2cbcf5d56a76b941341fdecb803c1cf4";a:1:{i:0;s:19:"COUNT(*) AS `count`";}}}

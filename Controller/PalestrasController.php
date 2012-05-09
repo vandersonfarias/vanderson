@@ -4,6 +4,12 @@ class PalestrasController extends AppController {
 
     
     public function inserir() {
+        $this->loadModel('Palestrante');
+
+        $group_free = $this->Palestrante->find('list',array('fields' => array('id', 'nome')));
+
+	$this->set('palestrantes',$group_free);
+
         
         $isPost = $this->request->is('post');
 // Se é um POST e recebemos dados do formulário

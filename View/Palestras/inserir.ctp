@@ -29,7 +29,7 @@ $this->layout = 'home';
 //echo $this->Form->input('email');
     echo $this->Form->input('descricao', array("class" => "campo", "label" => "Descrição: "));
 
-    echo $this->Form->input('palestrantes_id', array("class" => "campo", "label" => "Palestrante: "));
+    echo $this->Form->input('palestrantes', array("name"=>"data[Palestra][palestrantes_id]","class" => "campo", "label" => "Palestrante: "));
 
     echo $this->Form->input('inicio', array("class" => "campo", "label" => "Hr Inicio: "));
     echo $this->Form->input('fim', array("class" => "campo", "label" => "Hr Fim: "));
